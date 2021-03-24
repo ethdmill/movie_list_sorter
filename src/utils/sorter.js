@@ -1,0 +1,3 @@
+const compareLists = (firstList, secondList) => {
+  
+}
